@@ -15,7 +15,7 @@ Finally, we introduce traditional *compiler compilers* and modern *language work
 
 # Slides
 
-[![View slides on Slideshare](Software Languages.jpg)](https://www.slideshare.net/guwac/compiler-construction-introduction-5058359) 
+[![View slides on Slideshare](Software Languages.jpg)](https:////www.slideshare.net/eelcovisser/software-languages) 
 
 # Further Reading
 
